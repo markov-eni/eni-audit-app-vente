@@ -1,6 +1,9 @@
-package product;
+package product.service;
 
 import java.util.List;
+
+import product.model.Product;
+import product.repository.ProductRepository;
 
 public class ProductService {
     private ProductRepository productRepository;

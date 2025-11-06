@@ -1,4 +1,4 @@
-import product.ProductController;
+import product.controller.ProductController;
 
 public class App {
     public static void main(String[] args) throws Exception {
